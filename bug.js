@@ -1,0 +1,1 @@
+This error occurs when using the Expo Go app to test an app that uses AsyncStorage. The error message is usually something like "AsyncStorage has been deprecated and will be removed soon. Please migrate your app to use MMKV.".  The issue stems from Expo Go's reliance on AsyncStorage, which is being phased out in favor of MMKV.
